@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="ModuleLed/ModuleLed.ebp" active="1" />
+		<Project filename="ClassLed/ClassLed.ebp" />
+		<Project filename="Namespaces/Namespaces.ebp" />
+		<Project filename="EnumeratorWithC/EnumeratorWithC.ebp" />
+		<Project filename="EnumeratorWithCpp/EnumeratorWithCpp.ebp" />
+		<Project filename="StructWithC/StructWithC.ebp" />
+		<Project filename="StructWithCpp/StructWithCpp.ebp" />
+		<Project filename="NullPointerWithC/NullPointerWithC.ebp" />
+		<Project filename="NullPointerWithCpp/NullPointerWithCpp.ebp" />
+		<Project filename="ConstantExpressions/ConstantExpressions.ebp" />
+		<Project filename="ConstructorsWithCpp/ConstructorsWithCpp.ebp" />
+	</Workspace>
+</EmBlocks_workspace_file>

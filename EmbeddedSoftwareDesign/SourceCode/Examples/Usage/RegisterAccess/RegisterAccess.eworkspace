@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="CRegisterAccess/CRegisterAccess.ebp" active="1" />
+		<Project filename="CppRegisterAccess/CppRegisterAccess.ebp" />
+	</Workspace>
+</EmBlocks_workspace_file>

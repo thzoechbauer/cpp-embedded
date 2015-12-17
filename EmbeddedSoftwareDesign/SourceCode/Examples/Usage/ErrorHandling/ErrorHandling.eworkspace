@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="EmptyProgram/EmptyProgram.ebp" />
+		<Project filename="UseExceptions/UseExceptions.ebp" active="1" />
+	</Workspace>
+</EmBlocks_workspace_file>
