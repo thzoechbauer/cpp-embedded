@@ -26,6 +26,10 @@
 *.hex
 *.d
 *.map
+*.lst
+*.bin
 # Em::Blocks Files
 *.elay
 *.depend
+# VS Code Files
+**/.vscode/.cortex-debug.*.json
